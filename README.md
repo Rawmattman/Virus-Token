@@ -1,6 +1,6 @@
 *Locked liquidity  
 
-*Doxed creator and team 
+*Doxed creator 
 
 *No pre-sales (IPO) before public release (Seed investors).  
 
@@ -11,8 +11,6 @@
 *Max coins released (No dumping on the market or slow release over time which all lowers the value). 
 
 *Not yet listed on any exchanges. New Listings bring in a large volume of people and an influx of new buyers. 
-
-*Airdrops begin this Christmas.  
 
  
 
